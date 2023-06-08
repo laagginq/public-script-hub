@@ -1,0 +1,34 @@
+{
+  "Games": [
+    {
+      "Name": "Arsenal",
+      "PlaceId": 286090429,
+      "Description": "ROLVe"
+    },
+    {
+      "Name": "BedWars",
+      "PlaceId": 6872265039,
+      "Creator": "Easy.gg"
+    },
+    {
+      "Name": "Phantom Forces",
+      "PlaceId": 292439477,
+      "Creator": "StyLiS Studios"
+    },
+    {
+      "Name": "Doors",
+      "PlaceId": 6516141723,
+      "Creator": "LPLASH"
+    },
+    {
+      "Name": "Anime Tales",
+      "PlaceId": 8720980067,
+      "Creator": "Anime Tales"
+    },
+    {
+      "Name": "Da Hood",
+      "PlaceId": 2788229376,
+      "Creator": "Da Hood Entertainment"
+    }
+  ]
+}
