@@ -1,3 +1,7 @@
+-- // Open source script hub for me and my friends
+-- // I just made this to play with json
+-- // loadstring(game:HttpGet("https://raw.githubusercontent.com/laagginq/public-script-hub/main/main.lua"))() 
+
 local scriptloadstring = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/laagginq/public-script-hub/main/main.lua"))() ]]
 local httprequest = (syn and syn.request) or (http and http.request) or http_request or (fluxus and fluxus.request) or request
 local scripts = game:GetService("HttpService"):JSONDecode(httprequest(
