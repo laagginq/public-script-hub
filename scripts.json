@@ -1526,5 +1526,14 @@
             "ThumbNail": "https://i.imgur.com/WwNbYL6.png",
             "ID": "110"
         }
+    ],
+    "Scripts2" : [
+		{
+            "Name": "Speed Run Simulator",
+            "Url": "https://raw.githubusercontent.com/dontsteal/donttouch/main/sped",
+            "Description": "Auto Speed, Auto Eggs, Farm Item & More!",
+            "ThumbNail": "https://i.imgur.com/tR4dlwc.jpg",
+            "ID": "90"
+        }
     ]
 }
